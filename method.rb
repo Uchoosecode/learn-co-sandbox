@@ -3,4 +3,4 @@ def a_method(a, b)
   a + b
 end
 
-a_method(1, 2)
+a_method(1, 2) #=> 3
